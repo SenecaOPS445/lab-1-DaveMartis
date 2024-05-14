@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 
-num1 = 5
-num2 = 10
+num1 = 70
+num2 = 2
 
-print(num1)
-print(num2)
+#print(num1)
+#print(num2)
 
 sum = num1 + num2
 
-print(sum)
+#print(sum)
 
-print('The sum is: ' + str(sum))
+print('Isaac is ' + str(sum) + ' years old!')
 
