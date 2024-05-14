@@ -10,7 +10,5 @@ sum = num1 + num2
 
 print(sum)
 
-print('The sum is: ' + sum)
-
 print('The sum is: ' + str(sum))
 
